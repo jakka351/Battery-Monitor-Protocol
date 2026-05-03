@@ -118,8 +118,7 @@ This Python script provides a minimal alternative that reads data directly from 
 implemented on a raspberry pi and displayed on a headunit - don't accept spyware as the cost of functionality - now there is a better alternative and its essentially free. This is why I publish open source
 stuff, because I get really fucked off by shit like this, so this is my reaction to said bullshit. Supercheap Auto I am fucking talking about you here as well, you're the supplier of the product and either
 you are knowingly agreeing to this happening or you haven't done proper due diligence on the product that you are selling which indicates to me Supercheap Auto is either incompetent or malicous in its actions 
-regarding its customers.
-  
+regarding it's customers. See further whinging here https://www.facebook.com/share/p/1XjGXQnGdf/
 `/rant.`   
   
 
