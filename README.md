@@ -59,9 +59,10 @@ pip install bleak pycryptodome
 2. Run the script:
 
 ```bash
-python script.py AA:BB:CC:DD:EE:FF
+python monitor.py B0:D2:78:00:11:22 # the OUI for the device is B0:D2:78 - Texas Instruments, with the last 6 digits being a unique identifier.
 ```
-<img width="1916" height="1041" alt="image" src="https://github.com/user-attachments/assets/08270fc1-d549-4223-b70b-c13f6c06b6e4" />
+<img width="585" height="663" alt="image" src="https://github.com/user-attachments/assets/4b4e92f3-1526-47e9-9e7c-21e96fd904f1" />
+
 
 Example output:
 
