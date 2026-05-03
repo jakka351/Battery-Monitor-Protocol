@@ -102,11 +102,13 @@ Users concerned about privacy should:
 
 * Review app permissions carefully
 A note on this - Here is a screenshot of the actual permissions this app asks for - keep in mind this is an app for monitoring battery voltage via bluetooth low energy, yet they are asking for (And have no need for) fine location, nearby devices, notifications, camera, microphone, music and audio, photos and videos permissions. If thats not indicative of what sinister motives the creators of this application/product have then I don't know what is.
-<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/d0aad781-df1f-4a50-9e7f-8623c176a510" />
-
+      
+<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/d0aad781-df1f-4a50-9e7f-8623c176a510" />  
+  
 * Monitor network activity if possible
 * Consider avoiding or isolating the official app, or as I did - uninstalling it and fucking it off, don't accept this bullshit from companies or products - buy an alternative and vote with your money.
-  <img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/425cc441-8d8d-4e1f-b6ef-e38358e14363" />
+      
+<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/425cc441-8d8d-4e1f-b6ef-e38358e14363" />  
 
 
 This Python script provides a minimal alternative that reads data directly from the device without relying on the vendor’s cloud services. In the GUI folder you will find a full display that can be easily 
