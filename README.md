@@ -124,6 +124,10 @@ regarding it's customers. See further whinging here https://www.facebook.com/sha
 
 ---
 
+## Hackaday. 
+
+https://hackaday.com/2023/06/27/bluetooth-battery-monitors-that-also-monitor-your-position-without-asking/
+
 ## Disclaimer
 
 This project is provided for educational and interoperability purposes.
