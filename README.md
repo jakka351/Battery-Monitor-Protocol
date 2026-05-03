@@ -1,5 +1,9 @@
 # Battery-Monitor-Protocol BM2 Battery Monitor
-Vehicle Battery Monitor purchased from Supercheap Auto comes bundled with an App that tracks user location data and violates privacy. 
+Vehicle Battery Monitor purchased from Supercheap Auto comes bundled with an App that *tracks user location data and violates privacy*. Shame on Supercheap Auto
+for selling this crap to their customers and profiting from users being flagrantly tracked and their data sent to chinese servers. That's the last time I'll ever buy 
+a product from a company that supports that sort of behaviour and subscribes to those kinds of ethics. It really shows you how much they don't care about their customesr. 
+Absolutely appalling on their behalf.  
+  
 This project provides a Python script to read **battery voltage** and **charge level** from a BM2 Bluetooth battery monitor by reverse engineering its BLE protocol. 
 It connects to the device over Bluetooth Low Energy (BLE), decrypts the broadcast data, and prints readable values in real time.
 
