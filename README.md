@@ -61,6 +61,7 @@ pip install bleak pycryptodome
 ```bash
 python script.py AA:BB:CC:DD:EE:FF
 ```
+<img width="1916" height="1041" alt="image" src="https://github.com/user-attachments/assets/08270fc1-d549-4223-b70b-c13f6c06b6e4" />
 
 Example output:
 
