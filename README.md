@@ -90,6 +90,9 @@ Decoded payload format:
 
 ## ⚠️ Privacy Notice
 
+<img width="359" height="190" alt="image" src="https://github.com/user-attachments/assets/18e2aac3-f421-4eee-b534-17a0a3e4711b" />
+
+
 The reverse engineering article linked above reports that the official BM2 mobile application may collect and transmit various types of device and network information (such as location-related data and network identifiers) to remote servers.
 
 While these findings are based on analysis by a third party, users should be aware that:
