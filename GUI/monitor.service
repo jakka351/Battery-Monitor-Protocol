@@ -1,0 +1,27 @@
+# BM2 Battery Monitor Systemd GUI Service
+#
+[Unit]
+Description=Battery Monitor Display
+After=graphical.target bluetooth.service dbus.service network-online.target
+Wants=graphical.target bluetooth.service
+StartLimitIntervalSec=60
+StartLimitBurst=8
+
+[Service]
+Type=simple
+User=@INSTALL_USER@
+Group=@INSTALL_GROUP@
+WorkingDirectory=/opt/monitor
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/@INSTALL_USER@/.Xauthority
+Environment=PYTHONUNBUFFERED=1
+Environment=LEGEND_HUD_SIZE=@DISPLAY_SIZE@
+ExecStartPre=/bin/sleep 5
+ExecStart=/opt/monitor/venv/bin/python /opt/monitor/monitor.py @BLE_TARGET@ --size @DISPLAY_SIZE@ --fullscreen @SIM_ARGS@
+Restart=always
+RestartSec=4
+KillSignal=SIGTERM
+TimeoutStopSec=10
+
+[Install]
+WantedBy=graphical.target
