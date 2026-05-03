@@ -101,10 +101,22 @@ While these findings are based on analysis by a third party, users should be awa
 Users concerned about privacy should:
 
 * Review app permissions carefully
-* Monitor network activity if possible
-* Consider avoiding or isolating the official app
+A note on this - Here is a screenshot of the actual permissions this app asks for - keep in mind this is an app for monitoring battery voltage via bluetooth low energy, yet they are asking for (And have no need for) fine location, nearby devices, notifications, camera, microphone, music and audio, photos and videos permissions. If thats not indicative of what sinister motives the creators of this application/product have then I don't know what is.
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d0aad781-df1f-4a50-9e7f-8623c176a510" />
 
-This Python script provides a minimal alternative that reads data directly from the device without relying on the vendor’s cloud services.
+* Monitor network activity if possible
+* Consider avoiding or isolating the official app, or as I did - uninstalling it and fucking it off, don't accept this bullshit from companies or products - buy an alternative and vote with your money.
+  <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/425cc441-8d8d-4e1f-b6ef-e38358e14363" />
+
+
+This Python script provides a minimal alternative that reads data directly from the device without relying on the vendor’s cloud services. In the GUI folder you will find a full display that can be easily 
+implemented on a raspberry pi and displayed on a headunit - don't accept spyware as the cost of functionality - now there is a better alternative and its essentially free. This is why I publish open source
+stuff, because I get really fucked off by shit like this, so this is my reaction to said bullshit. Supercheap Auto I am fucking talking about you here as well, you're the supplier of the product and either
+you are knowingly agreeing to this happening or you haven't done proper due diligence on the product that you are selling which indicates to me Supercheap Auto is either incompetent or malicous in its actions 
+regarding its customers.
+  
+`/rant.`   
+  
 
 ---
 
