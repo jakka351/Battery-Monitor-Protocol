@@ -111,5 +111,5 @@ This Python script provides a minimal alternative that reads data directly from 
 
 This project is provided for educational and interoperability purposes.
 Use at your own risk. No affiliation with the device manufacturer.
-(Fuck the device manufacture, evil fucks. Thats why this repo was made.)
+(Fuck the device manufacturer, evil fucks. Thats why this repo was made.)
 ---
