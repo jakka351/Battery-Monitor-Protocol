@@ -4,6 +4,9 @@ This project provides a Python script to read **battery voltage** and **charge l
 It connects to the device over Bluetooth Low Energy (BLE), decrypts the broadcast data, and prints readable values in real time.
 
 ---
+<img width="4080" height="2296" alt="image" src="https://github.com/user-attachments/assets/a0e771b9-e761-4ab7-ba41-6e9ac953282d" />
+
+
 
 ## Source / Background
 
