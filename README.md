@@ -5,7 +5,8 @@ a product from a company that supports that sort of behaviour and subscribes to 
 Absolutely appalling on their behalf.  
   
 This project provides a Python script to read **battery voltage** and **charge level** from a BM2 Bluetooth battery monitor by reverse engineering its BLE protocol. 
-It connects to the device over Bluetooth Low Energy (BLE), decrypts the broadcast data, and prints readable values in real time.
+It connects to the device over Bluetooth Low Energy (BLE), decrypts the broadcast data, and prints readable values in real time. In the GUI folder you will find a 
+full display made with python tkinter that can be easily implemented on a raspberry pi and displayed on a headunit with video input.
 
 ---
 <img width="4080" height="2296" alt="image" src="https://github.com/user-attachments/assets/a0e771b9-e761-4ab7-ba41-6e9ac953282d" />
